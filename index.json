@@ -1,0 +1,20 @@
+{
+  "pakete": [
+    {
+      "id": "grundlagen",
+      "titel": "Grundlagen: Was die KI für eine gute App braucht",
+      "version": "1.6.0",
+      "url": "https://raw.githubusercontent.com/chrisschmidt7305-bot/agentic-akademie-pakete/main/pakete/grundlagen-1.6.0.zip",
+      "bytes": 67184,
+      "sha256": "97a53e8211bff7fe72cbec13ae17f043cbc7da6abd5509196eda67f274d67f65"
+    },
+    {
+      "id": "so-gebaut",
+      "titel": "So wurde diese App gebaut",
+      "version": "0.10.0",
+      "url": "https://raw.githubusercontent.com/chrisschmidt7305-bot/agentic-akademie-pakete/main/pakete/so-gebaut-0.10.0.zip",
+      "bytes": 21552,
+      "sha256": "e58d3a3b6b42b3d4c42defaf8a0639355ced217e49ba8d1e4d2c69f9f52677b9"
+    }
+  ]
+}
