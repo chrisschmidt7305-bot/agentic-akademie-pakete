@@ -3,10 +3,10 @@
     {
       "id": "gehaertet",
       "titel": "Die gehärtete App: Anforderungen, die eine KI einhalten muss",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/chrisschmidt7305-bot/agentic-akademie-pakete/main/pakete/gehaertet-1.0.0.zip",
-      "bytes": 47615,
-      "sha256": "187a852623f8607b1bb4d37db451866270afd1a13ed941e53c2bad2200000642"
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/chrisschmidt7305-bot/agentic-akademie-pakete/main/pakete/gehaertet-1.0.1.zip",
+      "bytes": 48083,
+      "sha256": "13eb1b75d65a680314ca86d9e88c1855b8d3b31d7622cda5e678e868310e244b"
     },
     {
       "id": "grundlagen",
@@ -19,10 +19,10 @@
     {
       "id": "so-gebaut",
       "titel": "So wurde diese App gebaut",
-      "version": "0.11.0",
-      "url": "https://raw.githubusercontent.com/chrisschmidt7305-bot/agentic-akademie-pakete/main/pakete/so-gebaut-0.11.0.zip",
-      "bytes": 24880,
-      "sha256": "c09beacbc60849ef202538382831ad60bae606a24f5e88f7c67c9de47beba754"
+      "version": "0.11.1",
+      "url": "https://raw.githubusercontent.com/chrisschmidt7305-bot/agentic-akademie-pakete/main/pakete/so-gebaut-0.11.1.zip",
+      "bytes": 25174,
+      "sha256": "4191071b8a9179d8bd2f8fa7335f450d3535467fad299473a1ea5ac3622af578"
     }
   ]
 }
